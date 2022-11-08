@@ -1,5 +1,16 @@
+div[class*="col-"]{
+    padding: 20px;
+}
+
 .div-kep{
     height: 200px;
     width: 200px;
     background-color: gray;
+    margin: auto;
+    background-size: cover;
+    background-position: center;
+}
+
+#profile-pic{
+    background-image: url(01.jpg);
 }
